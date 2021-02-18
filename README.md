@@ -61,7 +61,9 @@
     The technologies I would use would be Blockchain and A.I. Blockchain to provide the secure link and ledger to all transaction and A.I. to better predict and tailor the users experience. I believe these two technologies are vital to the progression towards a cashless society. We live in a rapidly changing technologically advanced world where data is becoming more and more commoditized. The end goal should always be user privacy and while also providing that user with exactly they want. 
 
 
-## Cite Sources 
+## Addendum
+
+# Cite Sources 
 
 https://squareup.com/us/en
 
