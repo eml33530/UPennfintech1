@@ -1,4 +1,4 @@
-### Unit 4 Homework Assignment: A Whale Off the Port(folio)
+# Unit 4 Homework Assignment: A Whale Off the Port(folio)
 # Background
 Harold's company has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
 You just learned these quantitative analysis techniques with Python and Pandas, so Harold has come to you with a challenge—to help him determine which portfolio is performing the best across multiple areas: volatility, returns, risk, and Sharpe ratios.
@@ -6,25 +6,25 @@ You need to create a tool (an analysis notebook) that analyzes and visualizes th
 For this homework assignment, you have three main tasks:
 
 
-# Read in and Wrangle Returns Data
+Read in and Wrangle Returns Data
 
 
-# Determine Success of Each Portfolio
+Determine Success of Each Portfolio
 
 
-# Choose and Evaluate a Custom Portfolio
+Choose and Evaluate a Custom Portfolio
 
 
 
 
-## Instructions
+# Instructions
 File: Whale Analysis Starter Code
 
-# Prepare the Data
+Prepare the Data
 First, read and clean several CSV files for analysis. The CSV files include whale portfolio returns, algorithmic trading portfolio returns, and S&P 500 historical prices. Use the Whale Analysis Starter Code to complete the following steps:
 
 
-# Use Pandas to read the following CSV files as a DataFrame. Be sure to convert the dates to a DateTimeIndex.
+Use Pandas to read the following CSV files as a DataFrame. Be sure to convert the dates to a DateTimeIndex.
 
 
 whale_returns.csv: Contains returns of some famous "whale" investors' portfolios.
@@ -38,7 +38,7 @@ sp500_history.csv: Contains historical closing prices of the S&P 500 Index.
 
 
 
-# Detect and remove null values.
+Detect and remove null values.
 
 
 If any columns have dollar signs or characters other than numeric values, remove those characters and convert the data types as needed.
@@ -81,7 +81,7 @@ Calculate the Annualized Standard Deviation.
 
 
 
-# Rolling Statistics
+Rolling Statistics
 
 
 Calculate and plot the rolling standard deviation for all portfolios using a 21-day window.
@@ -94,7 +94,7 @@ Choose one portfolio, then calculate and plot the 60-day rolling beta between it
 
 
 
-# Rolling Statistics Challenge: Exponentially Weighted Average
+Rolling Statistics Challenge: Exponentially Weighted Average
 An alternative method to calculate a rolling window is to take the exponentially weighted moving average. This is like a moving window average, but it assigns greater importance to more recent observations. Try calculating the ewm with a 21-day half-life.
 
 Sharpe Ratios
@@ -124,7 +124,7 @@ Calculate the weighted returns for your portfolio, assuming equal number of shar
 Add your portfolio returns to the DataFrame with the other portfolios.
 
 
-# Run the following analyses:
+Run the following analyses:
 
 Calculate the Annualized Standard Deviation.
 Calculate and plot rolling std with a 21-day window.
@@ -134,7 +134,7 @@ Calculate the Sharpe ratios and generate a bar plot.
 
 
 
-## How does your portfolio do?
+# How does your portfolio do?
 
 
 
