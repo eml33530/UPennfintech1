@@ -97,36 +97,3 @@ Then, complete the following steps for each model:
 5. For the balanced random forest classifier only, print the feature importance sorted in descending order (most important feature to least important) along with the feature score.
 
 
-Use the above to answer the following questions:
-
-* Which model had the best balanced accuracy score?
-
-* Which model had the best recall score?
-
-* Which model had the best geometric mean score?
-
-* What are the top three features?
-
-- - -
-
-### Hints and Considerations
-
-Use the quarterly data from the LendingClub data provided in the `Resources` folder. Keep the file in the zipped format and use the starter code to read the file.
-
-Refer to the [imbalanced-learn](https://imbalanced-learn.readthedocs.io/en/stable/) and [scikit-learn](https://scikit-learn.org/stable/) official documentation for help with training the models. Remember that these models all use the model->fit->predict API.
-
-For the ensemble learners, use 100 estimators for both models.
-
-- - -
-
-### Submission
-
-* Create Jupyter notebooks for the homework and host the notebooks on GitHub.
-
-* Include a markdown that summarizes your homework and include this report in your GitHub repository.
-
-* Submit the link to your GitHub project to Bootcamp Spot.
-
-- - -
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
