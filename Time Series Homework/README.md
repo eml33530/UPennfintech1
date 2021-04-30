@@ -34,6 +34,3 @@ Making predictions using the testing data.
 Out-of-sample performance.
 In-sample performance.
 
-Use the results of the linear regression analysis and modeling to answer the following question:
-
-Does this model perform better or worse on out-of-sample data compared to in-sample data?
