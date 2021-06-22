@@ -1,0 +1,30 @@
+divert come base debris idea engine vivid street east busy ivory ketchup
+
+C:\Users\ericm\Downloads\geth-alltools-windows-386-1.9.7-a718daa6.zip\geth-alltools-windows-386-1.9.7-a718daa6
+
+private key: 0x4f1fad67998a031d2dcae7a1312da534d24363daabf51dc91e55c5ace74331a1
+
+password: 465768
+0x475f2a01D1b3F522fdbFcfC1EeBc481897B7360a - public address node 1 key
+0x7811b27825929fD1601e1280De5cFb7F3d49f264 - node 2 key
+
+enode://781c3a4ed5e94582c23070c91dbc9715a0a440265f1dd5aad99492f5f432e4c21494fa5a7ae94d480399d933b7f29b4159c4c735489260ce4897d40b99ace28a@127.0.0.1:30303
+
+enode://80210d3f8fd9d6ace92ac57a7d61a5c9dc1f8edd77109676537c80715604e2d33dfc3c981ede2a0f00ded50ee02be4717338fb9edc4bc84acc4161ff8928f5bf@127.0.0.1:30304
+
+default port: "http://127.0.0.1:8545"
+
+
+new wallet - keystore pswd ericlinn465768
+
+Keystore_private_key: d7f37c7973fb91eae82a54eedcfa010cc5a938673db5ca4533b991c904a44963
+
+
+address: mwSeZi2etcmioMP4eKF3bQvpZY3GyewSop
+public key: 033ae5049ddb959879225e25580f0816743f3f6b9b9a08ec9df02ddc90e9145cac
+private key: cQEWQfUDxRw5Aoxd79GobGHB6Ysw6jV69XPjqELLzHGHq8DACzBq
+
+
+---------------------------------------
+
+0xFE8AF6B4401068DFf49ecE53c8F71e1a74C3549D
