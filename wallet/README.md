@@ -215,10 +215,3 @@ The following dependencies are required for this assignment and were likely alre
       MyCrypto's TX Status, and screenshot the successful transaction like so:
 
       ![eth-test](Images/eth-test.png)
-### 7. Challenge Mode - **OPTIONAL**
-
-- Add support for `BTC`.
-
-- Add support for `LTC` using the sister library, [`lit`](https://github.com/blockterms/lit).
-
-- Add a function to track transaction status by `txid`.
