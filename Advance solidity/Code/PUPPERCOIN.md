@@ -18,6 +18,7 @@ deloy and create coin
 call and mint
 
 ![addminter](PNG/addminter.PNG)
+![MINT](PNG/MINT.PNG)
 
 ![MINT](PNG/MINT.PNG) 
 
