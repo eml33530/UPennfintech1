@@ -1,4 +1,3 @@
-
 # PUPPER COIN
 
 compile
@@ -18,8 +17,8 @@ deloy and create coin
 call and mint
 
 ![addminter](PNG/addminter.PNG)
+![MINT](PNG/MINT.PNG)
 
-![mintransactions](PNG/mintransactions.PNG)
 
 check balance
 
