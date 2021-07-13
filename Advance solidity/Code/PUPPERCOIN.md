@@ -19,7 +19,7 @@ call and mint
 
 ![addminter](PNG/addminter.PNG)
 
-![minttransactions](PNG/minttransactions.PNG)
+![minttransaction](PNG/minttransaction.PNG)
 
 check balance
 
