@@ -23,3 +23,8 @@ call and mint
 check balance
 
 ![CALL](PNG/CALL.PNG)
+
+transact
+![mintnewcoin](PNG/mintnewcoin.PNG)
+![mintnewcoins](PNG/mintnewcoins.PNG)
+![TRANSFER](PNG/TRANSFER.PNG)
